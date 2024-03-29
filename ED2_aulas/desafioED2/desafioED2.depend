@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658501515 source:d:\projetos programação\c\ed2_aulas\desafioed2\main.c
+	"funcionario.h"
+
+1658501515 d:\projetos programação\c\ed2_aulas\desafioed2\funcionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619989470 source:c:\users\nagibejr\onedrive\documentos\c\maior multiplo\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

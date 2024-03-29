@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Desafio_5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Desafio_5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../geracao-particoes/CMakeLists.txt" />
+		<Unit filename="../geracao-particoes/Makefile" />
+		<Unit filename="../geracao-particoes/cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../geracao-particoes/cliente.h" />
+		<Unit filename="../geracao-particoes/entrada.dat" />
+		<Unit filename="../geracao-particoes/geracao_particoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../geracao-particoes/geracao_particoes.h" />
+		<Unit filename="../geracao-particoes/lista_clientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../geracao-particoes/lista_clientes.h" />
+		<Unit filename="../geracao-particoes/nomes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../geracao-particoes/nomes.h" />
+		<Unit filename="../geracao-particoes/test_geracao_particoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../geracao-particoes/ufftest.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

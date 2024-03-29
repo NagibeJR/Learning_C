@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1660316756 source:d:\projetos programação\c\ed2_aulas\geracao-particoes\cliente.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"cliente.h"
+
+1660316756 d:\projetos programação\c\ed2_aulas\geracao-particoes\cliente.h
+	<stdio.h>
+
+1660835402 source:d:\projetos programação\c\ed2_aulas\geracao-particoes\geracao_particoes.c
+	<stdio.h>
+	"geracao_particoes.h"
+	"nomes.h"
+	"cliente.h"
+	<stdlib.h>
+
+1660316755 d:\projetos programação\c\ed2_aulas\geracao-particoes\geracao_particoes.h
+	"nomes.h"
+
+1660316756 d:\projetos programação\c\ed2_aulas\geracao-particoes\nomes.h
+
+1660316756 source:d:\projetos programação\c\ed2_aulas\geracao-particoes\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1660316756 d:\projetos programação\c\ed2_aulas\geracao-particoes\lista_clientes.h
+	"cliente.h"
+
+1660316756 source:d:\projetos programação\c\ed2_aulas\geracao-particoes\nomes.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"nomes.h"
+
+1660316756 source:d:\projetos programação\c\ed2_aulas\geracao-particoes\test_geracao_particoes.c
+	<io.h>
+	<unistd.h>
+	<limits.h>
+	<stdlib.h>
+	"ufftest.h"
+	"cliente.h"
+	"lista_clientes.h"
+	"nomes.h"
+	"geracao_particoes.h"
+
+1660316756 d:\projetos programação\c\ed2_aulas\geracao-particoes\ufftest.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1584205420 source:d:\projetos programação\c\ed2_aulas\desafio_5\main.c
+	<stdio.h>
+	<stdlib.h>
+

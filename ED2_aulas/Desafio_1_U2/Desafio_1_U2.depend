@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1663607087 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\arvore_b.c
+	<limits.h>
+	"arvore_b.h"
+
+1663607087 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\arvore_b.h
+
+1663607088 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1663607088 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\cliente.h
+	<stdio.h>
+
+1663607088 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1663607088 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\lista_clientes.h
+	"cliente.h"
+
+1663607087 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\lista_nos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_nos.h"
+
+1663607088 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\lista_nos.h
+	"no.h"
+
+1663607087 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\no.h
+	<stdio.h>
+	"cliente.h"
+
+1663607087 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\metadados.c
+	<string.h>
+	<stdlib.h>
+	"metadados.h"
+
+1663607088 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\metadados.h
+	<stdio.h>
+
+1663607087 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\no.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"no.h"
+
+1663607087 source:d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\test_arvore_b.c
+	<limits.h>
+	<stdlib.h>
+	"ufftest.h"
+	"lista_clientes.h"
+	"cliente.h"
+	"lista_nos.h"
+	"no.h"
+	"metadados.h"
+	"arvore_b.h"
+
+1663607087 d:\projetos programação\c\ed2_aulas\desafio1_u2\desafio\ufftest.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1584205420 source:d:\projetos programação\c\ed2_aulas\desafio_1_u2\main.c
+	<stdio.h>
+	<stdlib.h>
+

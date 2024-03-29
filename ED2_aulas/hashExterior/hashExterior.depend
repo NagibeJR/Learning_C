@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1665175404 source:d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1665175404 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\cliente.h
+	<stdio.h>
+
+1665175403 source:d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\compartimento_hash.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"compartimento_hash.h"
+
+1665175404 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\compartimento_hash.h
+	<stdio.h>
+
+1665175404 source:d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1665175403 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\lista_clientes.h
+	"cliente.h"
+
+1665175404 source:d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\lista_compartimentos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+
+1665175403 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\lista_compartimentos.h
+	"compartimento_hash.h"
+
+1665175404 source:d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\test_encadeamento_exterior.c
+	<limits.h>
+	<stdlib.h>
+	"ufftest.h"
+	"lista_clientes.h"
+	"cliente.h"
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+	"encadeamento_exterior.h"
+
+1665175403 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\ufftest.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1665175404 d:\projetos programação\c\ed2_aulas\esqueletohashexterior\esqueletohashexterior\encadeamento_exterior.h
+

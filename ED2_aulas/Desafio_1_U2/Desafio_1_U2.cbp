@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Desafio_1_U2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Desafio_1_U2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Desafio1_U2/Desafio/.DS_Store" />
+		<Unit filename="../Desafio1_U2/Desafio/arvore_b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/arvore_b.h" />
+		<Unit filename="../Desafio1_U2/Desafio/cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/cliente.h" />
+		<Unit filename="../Desafio1_U2/Desafio/lista_clientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/lista_clientes.h" />
+		<Unit filename="../Desafio1_U2/Desafio/lista_nos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/lista_nos.h" />
+		<Unit filename="../Desafio1_U2/Desafio/metadados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/metadados.h" />
+		<Unit filename="../Desafio1_U2/Desafio/no.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/no.h" />
+		<Unit filename="../Desafio1_U2/Desafio/test_arvore_b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Desafio1_U2/Desafio/ufftest.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
