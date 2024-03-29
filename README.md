@@ -1,2 +1,2 @@
-# Training_C
+# Learning_C
 Repositorio com as atividade feito em C na disciplica Programação 1
